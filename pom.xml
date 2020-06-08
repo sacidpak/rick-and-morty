@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.rickandmorty</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>rick-and-morty-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>rick-and-morty</name>
     <description>Demo project for Spring Boot</description>

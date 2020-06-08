@@ -33,10 +33,12 @@ class ApiIndex{
        this.charactersUrl = "http://localhost:" + port + "/rickandmorty/character";
        this.episodesUrl = "http://localhost:" + port + "/rickandmorty/episode";
        this.locationsUrl = "http://localhost:" + port + "/rickandmorty/location";
+       this.reportUrl = "http://localhost:" + port + "/rickandmorty/report";
     }
     String charactersUrl;
     String episodesUrl;
     String locationsUrl;
+    String reportUrl;
 }
 
 
